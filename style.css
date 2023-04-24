@@ -1,0 +1,25 @@
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
+.main-visual {
+    text-align: center;
+}
+
+.top-img {
+    width: 500px;
+    height: 300px;
+}
+
+.about {
+    display: flex;
+}
+
+.shop-data {
+    display: flex;
+}
+
+footer {
+    text-align: center;
+}
